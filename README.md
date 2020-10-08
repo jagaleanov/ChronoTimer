@@ -5,10 +5,10 @@
 
 | Id | Requerimiento |
 | ------------- | ------------- |
-| A1  | cronometrar tiempo en formato seg, min y horas |
-| A2  |	empezar a cronometrar |
-| A3  |	detener el cronometro |
-| A4 |	resetear el cronometro |
-| A5  |	"generar espacios de memoria con banderas en el tiempo especificado" |
-| B1  |	temporizar la cantidad especificada por el usuario hasta 0 |
-| B2  |	sonara una alarma al finalizar el temporizador  |
+| A1 | Cronometrar tiempo en formato seg, min y horas |
+| A2 |	Iniciar cronometro |
+| A3 |	Detener cronometro |
+| A4 |	Resetear cronometro |
+| A5 |	Guardado en memoria (10 espacios) |
+| B1 |	Temporizar la cantidad especificada por el usuario hasta 0 |
+| B2 |	Alarma al finalizar el temporizador  |
