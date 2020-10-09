@@ -12,12 +12,18 @@
 | Cronómetro | A5 | Cronometrar tiempo en formato seg, min y horas |
 | Temporizador | B1 |	Temporizar la cantidad especificada por el usuario hasta 0 |
 | Temporizador | B2 |	Alarma al finalizar el temporizador  |
-| | NF1 |	Manejar formato de tiempo en HH:MM:SS |
 | | NF1 |	Desarrollo en POO |
+| | NF2 |	Manejar formato de tiempo en HH:MM:SS |
 
 ## Historias de usuario
 Modulo: Cronómetro
 Código: A1
-Descripción: 
-Entradas:
-Salidas:
+Descripción: El usuario puede iniciar el cronometro para q empiece a correr.
+Entrada: Señal de entrada del momento de inicio
+Salida: Inicio del contador del cronometro en formato HH:MM:SS
+
+Modulo: Cronómetro
+Código: A1
+Descripción: El usuario puede iniciar el cronometro para q empiece a correr.
+Entrada: Señal de entrada del momento de inicio
+Salida: Inicio del contador del cronometro en formato HH:MM:SS
