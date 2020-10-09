@@ -24,6 +24,10 @@
 		<td>A1</td>
 	</tr>
 	<tr>
+		<th colspan="1">Nombre</th>
+		<td colspan="3">Iniciar cronómetro</td>
+	</tr>
+	<tr>
 		<th colspan="4">Descripción</th>
 	</tr>
 	<tr>
