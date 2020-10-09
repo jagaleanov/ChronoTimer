@@ -12,5 +12,5 @@
 | Cronómetro | A5 | Cronometrar tiempo en formato seg, min y horas | Entrada | Salida |
 | Temporizador | B1 |	Temporizar la cantidad especificada por el usuario hasta 0 | Entrada | Salida |
 | Temporizador | B2 |	Alarma al finalizar el temporizador | Entrada | Salida |
-| | NF1 |	Desarrollo en POO | Entrada | Salida |
-| | NF2 |	Manejar formato de tiempo en HH:MM:SS | Entrada | Salida |
+| | NF1 |	Desarrollo en POO | | |
+| | NF2 |	Manejar formato de tiempo en HH:MM:SS | | |
