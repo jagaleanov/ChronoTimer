@@ -16,7 +16,42 @@
 | | NF2 |	Manejar formato de tiempo en HH:MM:SS |
 
 ## Historias de usuario
+
+
 <p><strong>A1 - Iniciar cronómetro</strong></p>
 <p><strong>Descripción:</strong> El usuario puede iniciar el cronometro para q empiece a correr</p>
 <p><strong>Entrada:</strong> Señal de entrada del momento de inicio</p>
 <p><strong>Salida:</strong> Inicio del contador del cronometro en formato HH:MM:SS</p>
+
+<p><strong>A2 - Guardado en memoria (10 espacios)</strong></p>
+<p><strong>Descripción:</strong> </p>
+<p><strong>Entrada:</strong> </p>
+<p><strong>Salida:</strong> </p>
+
+<p><strong>A3 - Detener cronometro</strong></p>
+<p><strong>Descripción:</strong> </p>
+<p><strong>Entrada:</strong> </p>
+<p><strong>Salida:</strong> </p>
+
+<p><strong>A4 - Reiniciar cronometro</strong></p>
+<p><strong>Descripción:</strong> </p>
+<p><strong>Entrada:</strong> </p>
+<p><strong>Salida:</strong> </p>
+
+<p><strong>A5 - Cronometrar tiempo en formato seg, min y horas</strong></p>
+<p><strong>Descripción:</strong> </p>
+<p><strong>Entrada:</strong> </p>
+<p><strong>Salida:</strong> </p>
+
+<p><strong>B1 - Temporizar la cantidad especificada por el usuario hasta 0</strong></p>
+<p><strong>Descripción:</strong> </p>
+<p><strong>Entrada:</strong> </p>
+<p><strong>Salida:</strong> </p>
+
+<p><strong>B2 - Alarma al finalizar el temporizador</strong></p>
+<p><strong>Descripción:</strong> </p>
+<p><strong>Entrada:</strong> </p>
+<p><strong>Salida:</strong> </p>
+
+
+
