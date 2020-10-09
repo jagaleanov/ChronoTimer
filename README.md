@@ -1,8 +1,8 @@
 # Cronometro Temporizador
 
-## Jorge Galeano - 20172020060
-## Juan Sebastian Moreno - 20152020097
+## Jorge Galeano - 20172020060 && Juan Sebastian Moreno - 20152020097
 
+## Epecificacion de requerimientos
 | Id | Requerimiento |
 | ------------- | ------------- |
 | A1 | Cronometrar tiempo en formato seg, min y horas |
