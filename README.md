@@ -12,4 +12,4 @@
 | Temporizador | B1 |	Setear tiempo | Permite al usuario establecer el tiempo inicial del temporizador | Entrada | Salida |
 | Temporizador | B2 |	Iniciar | Permite al usuario Iniciar el conteo descendente desde el tiempo inicial establecido hasta 0 | Entrada | Salida |
 | Temporizador | B3 |	Alarma | Permite al usuario escuchar un sonido cuando el contador llega a 0 | Entrada | Salida |
-| | NF1 |	Desarrollo en POO | Descripción | | |
+| | NF1 |	Desarrollo en POO | | | |
