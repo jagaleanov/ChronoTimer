@@ -2,7 +2,7 @@
 
 ## Jorge Galeano - 20172020060 && Juan Sebastian Moreno - 20152020097
 
-## Especificacion de requerimientos
+## Especificación de requerimientos
 | Módulo | Código | Requerimiento | Descripción | Entrada | Salida |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Cronómetro | A1 |	Iniciar | Permite al usuario iniciar el conteo de segundos, minutos y horas de forma ascendente | Entrada | Salida |
