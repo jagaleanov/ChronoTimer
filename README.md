@@ -4,7 +4,7 @@
 
 ## Especificacion de requerimientos
 | Módulo | Código | Requerimiento | Descripción | Entrada | Salida |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Cronómetro | A1 |	Iniciar cronometro | Descripción | Entrada | Salida |
 | Cronómetro | A2 |	Guardado en memoria (10 espacios) | Descripción | Entrada | Salida |
 | Cronómetro | A3 |	Detener cronometro | Descripción | Entrada | Salida |
