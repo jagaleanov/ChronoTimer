@@ -18,31 +18,24 @@
 ## Historias de usuario
 <table>
 	<tr>
-		<th>Modulo:</th>
-		<td>Cronómetro</td>
-		<th>Código:</th>
-		<td>A1</td>
+		<th>A1 - Iniciar cronómetro</th>
 	</tr>
 	<tr>
-		<th colspan="1">Nombre</th>
-		<td colspan="3">Iniciar cronómetro</td>
+		<th>Descripción</th>
 	</tr>
 	<tr>
-		<th colspan="4">Descripción</th>
+		<td>El usuario puede iniciar el cronometro para q empiece a correr</td>
 	</tr>
 	<tr>
-		<td colspan="4">El usuario puede iniciar el cronometro para q empiece a correr</td>
+		<th>Entrada</th>
 	</tr>
 	<tr>
-		<th colspan="4">Entrada</th>
+		<td>Señal de entrada del momento de inicio</td>
 	</tr>
 	<tr>
-		<td colspan="4">Señal de entrada del momento de inicio</td>
+		<th>Salida</th>
 	</tr>
 	<tr>
-		<th colspan="4">Salida</th>
-	</tr>
-	<tr>
-		<td colspan="4">Inicio del contador del cronometro en formato HH:MM:SS</td>
+		<td>Inicio del contador del cronometro en formato HH:MM:SS</td>
 	</tr>
 </table>
