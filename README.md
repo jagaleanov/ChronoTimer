@@ -2,7 +2,7 @@
 
 ## Jorge Galeano - 20172020060 && Juan Sebastian Moreno - 20152020097
 
-## Epecificacion de requerimientos
+## Especificacion de requerimientos
 | Módulo | Código | Requerimiento |
 | ------------- | ------------- | ------------- |
 | Cronometro | A1 | Cronometrar tiempo en formato seg, min y horas |
@@ -12,3 +12,10 @@
 | Cronometro | A5 |	Guardado en memoria (10 espacios) |
 | Temporizador | B1 |	Temporizar la cantidad especificada por el usuario hasta 0 |
 | Temporizador | B2 |	Alarma al finalizar el temporizador  |
+
+## Historias de usuario
+| Módulo | Código | Requerimiento |
+| ------------- | ------------- | ------------- |
+| Módulo | Código | Requerimiento |
+| Módulo | Código | Requerimiento |
+| ------------- | ------------- | ------------- |
