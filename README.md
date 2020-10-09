@@ -16,7 +16,7 @@
 | | NF2 |	Manejar formato de tiempo en HH:MM:SS |
 
 ## Historias de usuario
-Modulo: Cronómetro
+<p><strong>Modulo:</strong> Cronómetro</p>
 Código: A1
 Descripción: El usuario puede iniciar el cronometro para q empiece a correr.
 Entrada: Señal de entrada del momento de inicio
