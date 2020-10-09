@@ -5,12 +5,11 @@
 ## Especificacion de requerimientos
 | Módulo | Código | Requerimiento | Descripción | Entrada | Salida |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Cronómetro | A1 |	Iniciar cronometro | Descripción | Entrada | Salida |
-| Cronómetro | A2 |	Guardado en memoria (10 espacios) | Descripción | Entrada | Salida |
-| Cronómetro | A3 |	Detener cronometro | Descripción | Entrada | Salida |
-| Cronómetro | A4 |	Reiniciar cronometro | Descripción | Entrada | Salida |
-| Cronómetro | A5 | Cronometrar tiempo en formato seg, min y horas | Descripción | Entrada | Salida |
-| Temporizador | B1 |	Temporizar la cantidad especificada por el usuario hasta 0 | Descripción | Entrada | Salida |
-| Temporizador | B2 |	Alarma al finalizar el temporizador | Descripción | Entrada | Salida |
+| Cronómetro | A1 |	Iniciar | Permite al usuario iniciar el conteo de segundos, minutos y horas de forma ascendente | Entrada | Salida |
+| Cronómetro | A2 |	Guardado en memória | Permite al usuario capturar y almacenar hasta 10 muestras de tiempo | Entrada | Salida |
+| Cronómetro | A3 |	Detener | Permite al usuario detener el conteo de segundos, minutos y horas | Entrada | Salida |
+| Cronómetro | A4 |	Reiniciar | Permite al usuario reiniciar el contador y borrar los datos almacenados | Entrada | Salida |
+| Temporizador | B1 |	Setear tiempo | Permite al usuario establecer el tiempo inicial del temporizador | Entrada | Salida |
+| Temporizador | B2 |	Iniciar | Permite al usuario Iniciar el conteo descendente | Entrada | Salida |
+| Temporizador | B3 |	Alarma | Permite al usuario escuchar un sonido cuando el contador llega a 0 | Entrada | Salida |
 | | NF1 |	Desarrollo en POO | Descripción | | |
-| | NF2 |	Manejar formato de tiempo en HH:MM:SS | Descripción | | |
