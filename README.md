@@ -16,8 +16,8 @@
 | | NF2 |	Manejar formato de tiempo en HH:MM:SS |
 
 ## Historias de usuario
-	<table>
-		<tr>
+<table>
+	<tr>
 			<th>Modulo:</th>
 			<td>Cronómetro</td>
 		</tr>
