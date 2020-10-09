@@ -20,27 +20,25 @@
 	<tr>
 		<th>Modulo:</th>
 		<td>Cronómetro</td>
-	</tr>
-	<tr>
 		<th>Código:</th>
 		<td>A1</td>
 	</tr>
 	<tr>
-		<th colspan="2">Descripción</th>
+		<th colspan="4">Descripción</th>
 	</tr>
 	<tr>
-		<th colspan="2">El usuario puede iniciar el cronometro para q empiece a correr</th>
+		<td colspan="4">El usuario puede iniciar el cronometro para q empiece a correr</td>
 	</tr>
 	<tr>
-		<th colspan="2">Entrada</th>
+		<th colspan="4">Entrada</th>
 	</tr>
 	<tr>
-		<th colspan="2">Señal de entrada del momento de inicio</th>
+		<td colspan="4">Señal de entrada del momento de inicio</td>
 	</tr>
 	<tr>
-		<th colspan="2">Salida</th>
+		<th colspan="4">Salida</th>
 	</tr>
 	<tr>
-		<th colspan="2">Inicio del contador del cronometro en formato HH:MM:SS</th>
+		<td colspan="4">Inicio del contador del cronometro en formato HH:MM:SS</td>
 	</tr>
 </table>
