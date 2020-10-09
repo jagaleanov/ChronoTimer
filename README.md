@@ -16,14 +16,16 @@
 | | NF2 |	Manejar formato de tiempo en HH:MM:SS |
 
 ## Historias de usuario
-<p><strong>Modulo:</strong> Cronómetro</p>
-Código: A1
-Descripción: El usuario puede iniciar el cronometro para q empiece a correr.
-Entrada: Señal de entrada del momento de inicio
-Salida: Inicio del contador del cronometro en formato HH:MM:SS
-
-Modulo: Cronómetro
-Código: A1
-Descripción: El usuario puede iniciar el cronometro para q empiece a correr.
-Entrada: Señal de entrada del momento de inicio
-Salida: Inicio del contador del cronometro en formato HH:MM:SS
+	<table>
+		<tr>
+			<th>Modulo:</th>
+			<td>Cronómetro</td>
+		</tr>
+		<tr>
+			<th>Código:</th>
+			<td>A1</td>
+		</tr>
+		<tr>
+			<th colspan="2">Descripción</th>
+		</tr>
+	</table>
