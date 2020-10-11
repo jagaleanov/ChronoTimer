@@ -12,3 +12,5 @@
 | Temporizador | B1 |	Ingresar tiempo | Permite al usuario establecer el tiempo inicial del temporizador | 
 | Temporizador | B2 |	Iniciar | Permite al usuario Iniciar el conteo descendente desde el tiempo inicial establecido hasta 0 | 
 | Temporizador | B3 |	Alarma | Permite al usuario escuchar un sonido cuando el contador llega a 0 | 
+
+!Diagrama de clases](clases.png)
