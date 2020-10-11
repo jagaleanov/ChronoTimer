@@ -18,3 +18,6 @@
 
 ## Prototipo GUI
 ![Prototipo GUI](mockup.png)
+
+## Cronograma
+![Cronograma](schedule.png)
