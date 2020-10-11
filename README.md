@@ -1,4 +1,4 @@
-# Cronometro Temporizador
+# Cronometro + Temporizador
 
 ## Jorge Galeano - 20172020060 && Juan Sebastian Moreno - 20152020097
 
@@ -15,3 +15,6 @@
 
 ## Diagrama de clases
 ![Diagrama de clases](clases.png)
+
+## Prototipo GUI
+![Prototipo GUI](mockup.png)
