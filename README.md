@@ -17,7 +17,8 @@
 ![Diagrama de clases](clases4.png)
 
 ## Diagrama de secuencia
-![Diagrama de secuencia](secuencia.png)
+![Diagrama de secuencia - Chrono](secuencia1.png)
+![Diagrama de secuencia - Timer](secuencia.png)
 
 ## Prototipo GUI
 ![Prototipo GUI](mockup.png)
