@@ -14,7 +14,7 @@
 | Temporizador | B3 |	Alarma | Permite al usuario escuchar un sonido cuando el contador llega a 0 | 
 
 ## Diagrama de clases
-![Diagrama de clases](clases.png)
+![Diagrama de clases](clases4.png)
 
 ## Prototipo GUI
 ![Prototipo GUI](mockup.png)
