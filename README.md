@@ -16,6 +16,9 @@
 ## Diagrama de clases
 ![Diagrama de clases](clases4.png)
 
+## Diagrama de secuencia
+![Diagrama de secuencia](secuencia.png)
+
 ## Prototipo GUI
 ![Prototipo GUI](mockup.png)
 
